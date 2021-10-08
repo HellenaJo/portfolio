@@ -1,0 +1,42 @@
+:root{
+    --primary-color:peach;
+    --secondary-color:nylon;
+    --head-font-family:sans-seriff;
+    --paragraph-font-family:Playfair Display;
+}
+
+.me {
+    text-align: center;
+    background: #a04646;
+    padding:150px 20px;
+}
+
+p{
+    font-style:lowercase;
+    margin: 0;
+    font-weight: 30px;
+    line-height: 2;
+    font-size: 20px;
+    font-family: var(--paragraph-font-family);
+}
+
+.btn-primary{
+    background-color: blue;
+    border-radius:2px;
+    color: blueviolet;
+    font-size: 17px;
+    line-height: 20px;
+    padding: 18px 36px;
+}
+
+h1{
+    font-family: var(--head-font-family);
+    color:pink;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+h2{
+    color: black;
+    font-size: 20px;
+}

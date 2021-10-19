@@ -1,8 +1,8 @@
 :root{
     --primary-color:peach;
     --secondary-color:nylon;
-    --head-font-family:sans-seriff;
-    --paragraph-font-family:Playfair Display;
+    --head-font-family:Delius;
+    --paragraph-font-family:Shadows into light;
 }
 
 .me {
@@ -12,7 +12,6 @@
 }
 
 p{
-    font-style:lowercase;
     margin: 0;
     font-weight: 30px;
     line-height: 2;
@@ -21,12 +20,11 @@ p{
 }
 
 .btn-primary{
-    background-color: blue;
+    background-color:white;
     border-radius:2px;
     color: blueviolet;
     font-size: 17px;
     line-height: 20px;
-    padding: 18px 36px;
 }
 
 h1{
